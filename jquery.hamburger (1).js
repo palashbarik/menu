@@ -1,9 +1,9 @@
-/*
- * jquery.hamburger
- *
- * Copyright (c) 2014 Jishnu Mohan
- * Licensed under the MIT license.
- */
+
+
+
+
+
+
 
 /* global jQuery */
 (function ($) {
